@@ -1,0 +1,3 @@
+I have learned basics in Python. Basics like datatypes, loops, input, list,
+dictionary, tuples, class, inheritance.
+This will help me to apply this knowledge in creating Python program and projects
